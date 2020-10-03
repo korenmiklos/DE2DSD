@@ -36,7 +36,6 @@
 
 [NEO4J](#neo4j)
 
-[HOMEWORK](#homework)
 
 
   
@@ -582,20 +581,6 @@ MATCH (a)--()-[r]-()--(a)
 RETURN n as degree, count(DISTINCT r) AS clustering_coefficient
 ```
 
-
-
-<a name="homework"/>
-
-
-# HOMEWORK 
-
-Use the datasets configured for each DB and create queries to solve the following tasks:
-
-
-
-* SOLR: HOW MANY “B6” CARRIERS WE GOT IF FILTER IN ONLY THE DESTINATIONS STARTING WITH LETTER “B”?
-
-* 
 
 
 
