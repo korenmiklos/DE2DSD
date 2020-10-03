@@ -435,6 +435,8 @@ https://cloudfront-files-1.publicintegrity.org/offshoreleaks/neo4j/guide/index.h
  
 #### Exercise interface: http://ceudsd.net:8080
 
+To connect you need to tick "do not use Bolt" in the Settings: [Screenshot help](/DSD2-3-4/neo4j.png?raw=true)
+
 #### Simple queries
 
 In Neo4J the SELECT is called MATCH. One of the simplest query is selecting 25 Officer nodes :
