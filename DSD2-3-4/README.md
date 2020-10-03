@@ -111,7 +111,10 @@ r.delete('three')
 r.exists('one')
 ```
 
-# INFLUX
+
+<br/><br/><br/>
+<a name="influx"/>
+## INFLUX
 
 #### Links to help you
 https://docs.influxdata.com/influxdb/v1.0/query_language/data_exploration/
@@ -205,9 +208,11 @@ SELECT PERCENTILE(water_level,5) FROM h2o_feet WHERE location = 'coyote_creek'
 
 The value 1.148 is larger than 5% of the values in water_level where location equals coyote_creek.
 
-# MONGO
-
+<br/><br/><br/>
 <a name="mongo"/>
+## MONGO
+
+
 
 #### Links to help you
 
@@ -287,9 +292,9 @@ for listing in airbnb.find({ "address.country": "Spain" }).limit(10):
 
 #### *** MONGO Exercise 1: COUNT HOW MANY AIRBNB LISTINGS WE HAVE IN THE SAMPLE DATABASE HAVING "COUNTRY_CODE" "US" OR "ADDRESS.MARKET" STARTWITH "M" (USE MONGODB DOCUMENTATION)
 
+<br/><br/><br/>
 <a name="solr"/>
-
-# SOLR
+## SOLR
 
 #### Links to help you
 https://cwiki.apache.org/confluence/display/solr/The+Standard+Query+Parser
@@ -391,10 +396,9 @@ http://ceudsd.net:8081/solr/flightdelays/select?d=2&facet.field=DEST_CITY_str&fa
 
 
 
-
+<br/><br/><br/>
 <a name="neo4j"/>
-
-# NEO4J
+## NEO4J
 
 #### Links to help you
 
