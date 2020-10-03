@@ -323,7 +323,9 @@ https://cwiki.apache.org/confluence/display/solr/The+Standard+Query+Parser
 
 http://yonik.com/solr/query-syntax/
 
+#### Exercise interface: http://ceudsd.net:8081
 
+<br/><br/>
 
 #### Simple queries
 
@@ -436,6 +438,8 @@ https://cloudfront-files-1.publicintegrity.org/offshoreleaks/neo4j/guide/index.h
 #### Exercise interface: http://ceudsd.net:8080 
 
 Ask User/Password in Slack chat. To connect you need to tick "do not use Bolt" in the Settings: [Screenshot help](/DSD2-3-4/neo4j.png?raw=true)
+
+<br/><br/>
 
 #### Simple queries
 
