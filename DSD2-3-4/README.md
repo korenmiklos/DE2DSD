@@ -55,6 +55,7 @@ https://redis.io/commands#
 
 Username/Password will be distributed during class. Ask on Slack if you haven't got one. 
 
+<br/><br/>
 
 #### Connect to Redis with Python (Use Zeppelin notebook with Python interpreter)
 ```
@@ -250,7 +251,7 @@ https://www.w3schools.com/python/python_mongodb_getstarted.asp
 #### Exercise interface: http://ceudsd.net (Apache Zeppelin)
 
 Username/Password will be distributed during class. Ask on Slack if you haven't got one. 
-
+<br/><br/>
 #### Connect to MongoDB with Python (Use Zeppelin notebook with Python interpreter)
 
 ```
