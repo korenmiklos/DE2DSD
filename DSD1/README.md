@@ -22,7 +22,6 @@ What do you need to know to perform these tasks?
 
 <br/><br/><br/>
 
-<a name="aws"/>
 ## Installing MySQL in AWS
 
 [Tutorial](/DSD1//AWS/)
