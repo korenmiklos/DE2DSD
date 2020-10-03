@@ -5,7 +5,7 @@
 ## 2. Select RDS (Relational Database Service) as Service 
 
 ## 3. Create a new database
-![alt text](https://github.com/salacika/DE1SQL/blob/master/SQL1/AWS/0.png?raw=true)
+![alt text](0.png?raw=true)
 
 ## 4. Configure a free database with the settings below.
 
