@@ -2,7 +2,7 @@
 
 This repository contains the files for CEU’s Data Engineering 2: Different Shapes of Data
 
-[Chapter 1 - DATA ARCHITECTURAL TRADEOFF - THE ENGINEERING PERSPECTIVE. SERVER ARCHITECTURES. CLOUD. RDS.](https://github.com/salacika/DE2DSD/tree/master/DSD1)
+[Chapter 1 - DATA ARCHITECTURAL TRADEOFFS. SERVER ARCHITECTURES. CLOUD. RDS.](https://github.com/salacika/DE2DSD/tree/master/DSD1)
 
 [Chapter 2 - ALTERING DB. SECURITY. DATA TYPES. LOGICAL OPERATORS. FILTERING.](https://github.com/salacika/DE1SQL/tree/master/SQL2)
 
