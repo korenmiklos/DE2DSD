@@ -174,9 +174,17 @@ Let’s try a where clause:
 ```
 SELECT *  FROM h2o_feet WHERE location = 'santa_monica' LIMIT 10
 ```
-#### *** INFLUX Exercise 1: HOW MANY “DEGREE” MEASUREMENT POINTS WE HAVE IN H2O_TEMPERATURE?
 
-#### *** INFLUX Exercise 2: LIST THE DISTINCT LEVEL DESCRIPTORS FOR H2O_FEET?
+<br/><br/>
+### `INFLUX Exercise1` 
+### HOW MANY “DEGREE” MEASUREMENT POINTS WE HAVE IN H2O_TEMPERATURE?
+<br/><br/>
+
+
+### `INFLUX Exercise2` 
+### LIST THE DISTINCT LEVEL DESCRIPTORS FOR H2O_FEET?
+<br/><br/>
+
 
 
 MEAN as aggregation function:
