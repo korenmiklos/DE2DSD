@@ -22,14 +22,7 @@ What do you need to know to perform these tasks?
 
 <br/><br/><br/>
 
-# Table Content:
-
-[Installing MySQL in AWS](#aws)
-
-[Homework](#homework)  
-
-<br/><br/><br/>
 <a name="aws"/>
 ## Installing MySQL in AWS
 
-[Tutorial](/AWS/)
+[Tutorial](/DSD1//AWS/)
