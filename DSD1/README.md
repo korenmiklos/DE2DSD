@@ -7,7 +7,6 @@
 
 2. As analyst, you need to setup a central cloud based RDBMS so that you can perform your work in a team setup. 
 
-What do you need to know to perform these tasks?
 
 **Objectives**
 * Understanding the issues around the classical Data Warehouse architecture
