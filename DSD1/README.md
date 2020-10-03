@@ -12,7 +12,7 @@ What do you need to know to perform these tasks?
 **Objectives**
 * Understanding the issues around the classical Data Warehouse architecture
 * Understanding the limitation of RDBMDs
-* Understanding the social, economical and technological changes after 2010 which induced radical changes in the data world
+* Understanding the social, economical and technological changes after 2010 and the radical changes induced in the data world
 * Understanding the role of opens source in data world
 * Understanding distributed systems
 * Understanding cloud-based systems
@@ -25,3 +25,5 @@ What do you need to know to perform these tasks?
 ## Installing MySQL in AWS
 
 [Tutorial](/DSD1//AWS/)
+
+## Homework
