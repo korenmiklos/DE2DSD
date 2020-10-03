@@ -543,9 +543,13 @@ LIMIT 10
 
 <br/><br/>
 ### `NEO4J Exercise5` 
-### List the name and number connections of the top 10 most connected Officers from Bulgaria.Who is the no1.
+### List the name and number connections of the top 10 most connected Officers from Bulgaria. Who is the no1.
 <br/><br/>
 
+
+### `NEO4J Exercise6` 
+### Find the entities related to officers named “Tudor” and all nodes related to these entities.
+<br/><br/>
 
 
 #### Node analytics
@@ -591,7 +595,7 @@ Use the datasets configured for each DB and create queries to solve the followin
 
 * SOLR: HOW MANY “B6” CARRIERS WE GOT IF FILTER IN ONLY THE DESTINATIONS STARTING WITH LETTER “B”?
 
-* NEO4J: FIND THE ENTITIES RELATED TO OFFICERS NAMED “TUDOR” AND ALL NODES RELATED TO THESE ENTITIES.
+* 
 
 
 
