@@ -122,6 +122,13 @@ https://docs.influxdata.com/influxdb/v1.0/query_language/math_operators/
 
 https://docs.influxdata.com/influxdb/v1.0/query_language/functions/
 
+#### Exercise interface: http://ceudsd.net:8082
+
+To connect you need to apply connection Settings: [Screenshot help](/DSD2-3-4/influx.png?raw=true)
+
+<br/><br/>
+
+<br/><br/>
 
 #### Schema exploration
 Let’s explore the databases in this Influx DBMS:
