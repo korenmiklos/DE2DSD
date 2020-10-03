@@ -219,6 +219,14 @@ SELECT PERCENTILE(water_level,5) FROM h2o_feet WHERE location = 'coyote_creek'
 
 The value 1.148 is larger than 5% of the values in water_level where location equals coyote_creek.
 
+
+<br/><br/>
+### `INFLUX Exercise4` 
+### HOW MUCH IS THE AVERAGE H2O TEMPERATURE BY LOCATION ?
+
+
+
+
 <br/><br/><br/>
 <a name="mongo"/>
 ## MONGO
@@ -304,7 +312,7 @@ for listing in airbnb.find({ "address.country": "Spain" }).limit(10):
 <br/><br/>
 ### `MONGO Exercise1` 
 ### COUNT HOW MANY AIRBNB LISTINGS WE HAVE IN THE SAMPLE DATABASE HAVING "COUNTRY_CODE" "US" OR "ADDRESS.MARKET" STARTWITH "M" (USE MONGODB DOCUMENTATION)
-<br/><br/>
+
 
 
 <br/><br/><br/>
@@ -409,7 +417,7 @@ http://ceudsd.net:8081/solr/flightdelays/select?d=2&facet.field=DEST_CITY_str&fa
 <br/><br/>
 ### `SOLR Exercise1` 
 ### HOW MANY FLIGHTS ARRIVED IN SAN FRANCISCO WITH NO DELAY ALTHOUGH THEY DEPARTED AT LEAST 50 MINS BEHIND THE SCHEDULE?
-<br/><br/>
+
 
 
 
@@ -579,7 +587,7 @@ RETURN n as degree, count(DISTINCT r) AS clustering_coefficient
 
 Use the datasets configured for each DB and create queries to solve the following tasks:
 
-* INFLUX: HOW MUCH IS THE AVERAGE H2O TEMPERATURE BY LOCATION ?
+
 
 * SOLR: HOW MANY “B6” CARRIERS WE GOT IF FILTER IN ONLY THE DESTINATIONS STARTING WITH LETTER “B”?
 
