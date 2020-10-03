@@ -51,6 +51,11 @@ https://redis-py.readthedocs.io/en/latest/index.html
 
 https://redis.io/commands#
 
+#### Exercise interface: http://ceudsd.net (Apache Zeppelin)
+
+Username/Password will be distributed during class. Ask on Slack if you haven't got one. 
+
+
 #### Connect to Redis with Python (Use Zeppelin notebook with Python interpreter)
 ```
 import redis
@@ -125,8 +130,6 @@ https://docs.influxdata.com/influxdb/v1.0/query_language/functions/
 #### Exercise interface: http://ceudsd.net:8082
 
 To connect you need to apply connection Settings: [Screenshot help](/DSD2-3-4/influx.png?raw=true)
-
-<br/><br/>
 
 <br/><br/>
 
@@ -243,6 +246,10 @@ The value 1.148 is larger than 5% of the values in water_level where location eq
 
 https://docs.mongodb.com/manual/
 https://www.w3schools.com/python/python_mongodb_getstarted.asp
+
+#### Exercise interface: http://ceudsd.net (Apache Zeppelin)
+
+Username/Password will be distributed during class. Ask on Slack if you haven't got one. 
 
 #### Connect to MongoDB with Python (Use Zeppelin notebook with Python interpreter)
 
@@ -444,7 +451,9 @@ https://cloudfront-files-1.publicintegrity.org/offshoreleaks/neo4j/guide/index.h
  
 #### Exercise interface: http://ceudsd.net:8080 
 
-Ask User/Password in Slack chat. To connect you need to tick "do not use Bolt" in the Settings: [Screenshot help](/DSD2-3-4/neo4j.png?raw=true)
+To connect you need to tick "do not use Bolt" in the Settings: [Screenshot help](/DSD2-3-4/neo4j.png?raw=true)
+
+Username/Password will be distributed during class. Ask on Slack if you haven't got one. 
 
 <br/><br/>
 
