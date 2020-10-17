@@ -6,4 +6,4 @@ This repository contains the files for CEU’s Data Engineering 2: Different Sha
 
 [Chapter 2-3-4 - NOSQL](https://github.com/salacika/DE2DSD/tree/master/DSD2-3-4)
 
-[TERM PROJECT](https://github.com/salacika/DE1SQL/tree/master/SQL6#homework)
+
