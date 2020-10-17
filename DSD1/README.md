@@ -21,7 +21,18 @@
 
 <br/><br/><br/>
 
+## Data architectural tradeoffs from engineering perspective
+
+[Lecture](https://github.com/salacika/DE2DSD/blob/main/DSD1/1.pptx)
+
+## Homework
+
 ## Installing MySQL in AWS
+
+Getting insights in AWS cloud, has to major goals:
+* A data system in cloud enables collaboration during the execution of your term project
+* Introducing cloud in practice, helps students to understand the next lecture
+
 
 [Tutorial](/DSD1//AWS/)
 
